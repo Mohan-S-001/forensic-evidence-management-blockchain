@@ -8,9 +8,7 @@ A professional React frontend application for managing forensic evidence using b
 
 🚀 **Try the deployed application on Vercel**
 
-👉 
-
-Clicking the link about section will open the live deployed version of the project.
+👉  Clicking the link about section will open the live deployed version of the project.
 
 ---
 
