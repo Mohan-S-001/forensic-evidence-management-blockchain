@@ -4,13 +4,35 @@ A professional React frontend application for managing forensic evidence using b
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try the deployed application on Vercel**
+
+👉 **[Open ForensicChain Platform](https://forensic-platform.vercel.app/login)**
+
+Clicking the link above will open the live deployed version of the project.
+
+---
+
+## 🚀 Quick Start
+
+````bash
+# 1. Extract the zip and enter the directory
+cd forensic-chain
+
+# 2. Install dependencies# 🔗 ForensicChain — Blockchain Evidence Management System
+
+A professional React frontend application for managing forensic evidence using blockchain concepts and digital signatures, with a tamper-proof chain of custody.
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
 # 1. Extract the zip and enter the directory
 cd forensic-chain
 
-# 2. Install dependencies
+# 2. Install dependenciess
 npm install
 
 # 3. Start the development server
@@ -176,3 +198,12 @@ This is a **frontend demo application** with mock data. In a production system:
 ---
 
 *Built with ForensicChain v2.4.1 — CLASSIFIED SYSTEM*
+
+npm install
+
+# 3. Start the development server
+npm run dev
+
+# 4. Open in browser
+# http://localhost:5173
+````
